@@ -1,0 +1,17 @@
+:root {
+	--background-color: #ffffff;
+	--text-color: #333333;
+	--button-bg: #f0f0f0;
+	--button-text: #333333;
+	--button-border: #cccccc;
+	--button-hover: #e0e0e0;
+}
+
+[data-theme="dark"] {
+	--background-color: #333333;
+	--text-color: #ffffff;
+	--button-bg: #555555;
+	--button-text: #ffffff;
+	--button-border: #777777;
+	--button-hover: #666666;
+}

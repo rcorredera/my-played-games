@@ -1,0 +1,11 @@
+{
+	"noResults": {
+		"title": "Oups ! On dirait que je n'ai pas encore joué à ce jeu.",
+		"line1": "Peut-être que j'étais trop occupé à essayer de battre ce niveau impossible dans \"Dark Souls\"...",
+		"line2": "Ou peut-être que je prenais juste une flèche dans le genou dans \"Skyrim\".",
+		"line3": "Quoi qu'il en soit, essayons une autre recherche !"
+	},
+	"title": "Jeux auxquels j'ai joué",
+	"searchPlaceholder": "Rechercher des jeux...",
+	"clearFilters": "Effacer les filtres"
+}

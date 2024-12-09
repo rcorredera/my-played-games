@@ -1,0 +1,11 @@
+{
+	"noResults": {
+		"title": "Oops! It seems like I haven't played that game yet.",
+		"line1": "Maybe I was too busy trying to beat that impossible level in \"Dark Souls\"...",
+		"line2": "Or perhaps I was just taking an arrow to the knee in \"Skyrim\".",
+		"line3": "Either way, let's try another search!"
+	},
+	"title": "Games I've Played",
+	"searchPlaceholder": "Search games...",
+	"clearFilters": "Clear Filters"
+}
