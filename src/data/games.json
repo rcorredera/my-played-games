@@ -134,5 +134,47 @@
 		"summary": "Take control of a powerful civilization. Lead them through 1000 years of the Middle Ages to riches and greatness. Will you Intimidate the world into following you by using military force? Rule the world with honor and nobility by using commerce and diplomacy? Or Underhandedly seize power through conspiracy, deception and regicide? There are many paths to power, there can only be one ruler!",
 		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co55xo.jpg",
 		"platformId": 6
+	},
+	{
+		"id": 3103,
+		"name": "Summoner",
+		"summary": "Born with the mark of the Summoner, Joseph possesses a power greater than emperors and gods. As a child, he summoned a demon to save his village, and watched in horror as those he loved were destroyed. Nine years later, the armies of Orenia invade, and Joseph must confront the prophecy he was born to fulfill.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1p1z.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 9282,
+		"name": "Messiah",
+		"summary": "Bob is an angel ordered by God himself to go and clean up the putrid world of the future. He has been given the power of possession so that he can sneak up on any person, animal or genetically engineered being and leap right into their souls!\nThe rules are up to you - enjoy the freedom.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lt1.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 27789,
+		"name": "PUBG: Battlegrounds",
+		"summary": "PUBG: Battlegrounds is a battle royale shooter that pits 100 players against each other in a struggle for survival. Gather supplies and outwit your opponents to become the last person standing.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co7j43.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 123,
+		"name": "World of Warcraft",
+		"summary": "World of Warcraft is a massively multiplayer online roleplaying game (MMORPG) set in the Warcraft universe. Players assume the roles of Warcraft heroes as they explore, adventure, and quest across a vast world. Being \"Massively Multiplayer,\" World of Warcraft allows thousands of players to interact within the same world. Whether adventuring together or fighting against each other in epic battles, players will form friendships, forge alliances, and compete with enemies for power and glory.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2l7z.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 318793,
+		"name": "Gears of War",
+		"summary": "This expanded version for Windows added a new story Act, as well as new multiplayer maps.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wct.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 20065,
+		"name": "Resident Evil 4",
+		"summary": "Resident Evil 4 is directly based off the Wii port, having all the new features that the Wii added. Some of the key features of this version are stunning HD graphics running at a smooth 60 frames per second for the first time. It also features a complete visual overhaul to bring this revered title to the highest graphical quality ever. It has been fully optimized for the wide screen, texts have been sharpened and textures have been upgraded on characters, backgrounds and in-game objects.\n\nHowever, it should be noted that the cutscenes of the Separate Ways scenario are not in HD and have had their resolution lowered and placed in sepia format. Aside from the updated HUD, the Movie Browser is fixed to now display real time cut-scenes instead of the PS2 pre-rendered cut-scene, like it was the Wii version. The Mercenaries costumes cheat remain and fully work.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co20ci.jpg",
+		"platformId": 9
 	}
 ]
