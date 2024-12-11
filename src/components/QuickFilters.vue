@@ -20,31 +20,33 @@ import platformsData from "../data/platforms.json"; // Importez les données des
 import gamesData from "../data/games.json"; // Importez les données des jeux
 
 export default defineComponent({
-  props: {
-    selectedPlatform: Number,
-  },
-  setup() {
-    // Obtenez les plateformes uniques à partir des jeux
-    const uniquePlatformIds = computed(() => {
-      const platformIds = gamesData.map((game: any) => game.platformId);
-      return [...new Set(platformIds)];
-    });
+	props: {
+		selectedPlatform: Number,
+	},
+	setup() {
+		// Obtenez les plateformes uniques à partir des jeux
+		const uniquePlatformIds = computed(() => {
+			const platformIds = gamesData.map((game: any) => game.platformId);
+			return [...new Set(platformIds)];
+		});
 
-    // Filtrez les plateformes disponibles
-    const filteredPlatforms = computed(() => {
-      return platformsData.filter((platform: any) => uniquePlatformIds.value.includes(platform.id));
-    });
+		// Filtrez les plateformes disponibles
+		const filteredPlatforms = computed(() => {
+			return platformsData.filter((platform: any) =>
+				uniquePlatformIds.value.includes(platform.id),
+			);
+		});
 
-    const getPlatformIcon = (platformId: number) => {
-      const platform = platformsData.find((p: any) => p.id === platformId);
-      return platform ? platform.iconUrl : '';
-    };
+		const getPlatformIcon = (platformId: number) => {
+			const platform = platformsData.find((p: any) => p.id === platformId);
+			return platform ? platform.iconUrl : "";
+		};
 
-    return {
-      filteredPlatforms,
-      getPlatformIcon
-    };
-  }
+		return {
+			filteredPlatforms,
+			getPlatformIcon,
+		};
+	},
 });
 </script>
 

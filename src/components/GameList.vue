@@ -15,51 +15,53 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, computed, watch } from 'vue';
+import { defineComponent, ref, computed, watch } from "vue";
 
 export default defineComponent({
-  props: {
-    games: {
-      type: Array,
-      required: true
-    }
-  },
-  setup(props) {
-    const itemsPerPage = ref(5); // Nombre d'éléments par page
-    const currentPage = ref(1);
+	props: {
+		games: {
+			type: Array,
+			required: true,
+		},
+	},
+	setup(props) {
+		const itemsPerPage = ref(5); // Nombre d'éléments par page
+		const currentPage = ref(1);
 
-    const totalPages = computed(() => Math.ceil(props.games.length / itemsPerPage.value));
+		const totalPages = computed(() =>
+			Math.ceil(props.games.length / itemsPerPage.value),
+		);
 
-    const paginatedGames = computed(() => {
-      const start = (currentPage.value - 1) * itemsPerPage.value;
-      const end = start + itemsPerPage.value;
-      return props.games.slice(start, end);
-    });
+		const paginatedGames = computed(() => {
+			const start = (currentPage.value - 1) * itemsPerPage.value;
+			const end = start + itemsPerPage.value;
+			return props.games.slice(start, end);
+		});
 
-    const nextPage = () => {
-      if (currentPage.value < totalPages.value) {
-        currentPage.value++;
-      }
-    };
+		const nextPage = () => {
+			if (currentPage.value < totalPages.value) {
+				currentPage.value++;
+			}
+		};
 
-    const prevPage = () => {
-      if (currentPage.value > 1) {
-        currentPage.value--;
-      }
-    };
+		const prevPage = () => {
+			if (currentPage.value > 1) {
+				currentPage.value--;
+			}
+		};
 
-    watch(currentPage, (newPage) => {
-      if (newPage < 1) currentPage.value = 1;
-      if (newPage > totalPages.value) currentPage.value = totalPages.value;
-    });
-    return {
-      paginatedGames,
-      currentPage,
-      totalPages,
-      nextPage,
-      prevPage
-    };
-  }
+		watch(currentPage, (newPage) => {
+			if (newPage < 1) currentPage.value = 1;
+			if (newPage > totalPages.value) currentPage.value = totalPages.value;
+		});
+		return {
+			paginatedGames,
+			currentPage,
+			totalPages,
+			nextPage,
+			prevPage,
+		};
+	},
 });
 </script>
 

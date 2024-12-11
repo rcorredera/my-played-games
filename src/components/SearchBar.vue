@@ -11,10 +11,10 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  props: {
-    modelValue: String,
-    placeholder: String
-  }
+	props: {
+		modelValue: String,
+		placeholder: String,
+	},
 });
 </script>
 

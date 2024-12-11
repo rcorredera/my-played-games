@@ -9,5 +9,5 @@ export default defineConfig({
 			"@": path.resolve(__dirname, "./src"),
 		},
 	},
-	base: './', // Utiliser des chemins relatifs//+
+	base: "./", // Utiliser des chemins relatifs//+
 });

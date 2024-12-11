@@ -30,49 +30,56 @@ import ThemeToggle from "./components/ThemeToggle.vue";
 import gamesData from "./data/games.json";
 
 export default defineComponent({
-  components: {
-    SearchBar,
-    QuickFilters,
-    GameList,
-    LanguageSelector,
-    ThemeToggle,
-  },
-  setup() {
-    const games = ref(gamesData);
-    const searchQuery = ref("");
-    const selectedPlatform = ref(0);
+	components: {
+		SearchBar,
+		QuickFilters,
+		GameList,
+		LanguageSelector,
+		ThemeToggle,
+	},
+	setup() {
+		const games = ref(gamesData);
+		const searchQuery = ref("");
+		const selectedPlatform = ref(0);
 
-    const uniquePlatforms = computed(() => {
-      return [...new Set(games.value.map((game) => game.platform))];
-    });
+		const uniquePlatforms = computed(() => {
+			return [...new Set(games.value.map((game) => game.platform))];
+		});
 
-    const filteredGames = computed(() => {
-      return games.value.filter(
-        (game) =>
-          (game.name.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
-            game.platform.toLowerCase().includes(searchQuery.value.toLowerCase())) &&
-          (selectedPlatform.value === 0 || game.platformId === selectedPlatform.value)
-      ).sort((a, b) => a.name.localeCompare(b.name)); // Tri par ordre alphabétique
-    });
+		const filteredGames = computed(() => {
+			return games.value
+				.filter(
+					(game) =>
+						(game.name
+							.toLowerCase()
+							.includes(searchQuery.value.toLowerCase()) ||
+							game.platform
+								.toLowerCase()
+								.includes(searchQuery.value.toLowerCase())) &&
+						(selectedPlatform.value === 0 ||
+							game.platformId === selectedPlatform.value),
+				)
+				.sort((a, b) => a.name.localeCompare(b.name)); // Tri par ordre alphabétique
+		});
 
-    const filterByPlatform = (platformId: number) => {
-      selectedPlatform.value = platformId;
-    };
+		const filterByPlatform = (platformId: number) => {
+			selectedPlatform.value = platformId;
+		};
 
-    const clearAllFilters = () => {
-      selectedPlatform.value = 0;
-      searchQuery.value = "";
-    };
+		const clearAllFilters = () => {
+			selectedPlatform.value = 0;
+			searchQuery.value = "";
+		};
 
-    return {
-      searchQuery,
-      filteredGames,
-      uniquePlatforms,
-      selectedPlatform,
-      filterByPlatform,
-      clearAllFilters,
-    };
-  },
+		return {
+			searchQuery,
+			filteredGames,
+			uniquePlatforms,
+			selectedPlatform,
+			filterByPlatform,
+			clearAllFilters,
+		};
+	},
 });
 </script>
 
