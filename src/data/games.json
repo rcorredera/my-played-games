@@ -3,84 +3,136 @@
 		"id": 71,
 		"name": "Portal",
 		"summary": "Waking up in a seemingly empty laboratory, the player is made to complete various physics-based puzzle challenges through numerous test chambers in order to test out the new Aperture Science Handheld Portal Device, without an explanation as to how, why or by whom.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1x7d.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1x7d.jpg",
 		"platformId": 6
 	},
 	{
 		"id": 912,
 		"name": "Tomb Raider",
 		"summary": "Tomb Raider is a 3D action game developed by Core Design and published by Eidos Interactive. The game follows the exploits of Lara Croft, a British female archaeologist in search of ancient treasures.\n\nThe objective of Tomb Raider is to guide Lara through a series of tombs and other locations in search of treasures and artifacts. On the way, she must kill dangerous animals and other creatures, while collecting objects and solving puzzles to gain access to an ultimate prize, usually a powerful artifact.\n\nThe game was critically acclaimed and widely influential, it spawned a number of sequels and a franchise of related media.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3hfx.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co3hfx.jpg",
 		"platformId": 6
 	},
 	{
 		"id": 219,
 		"name": "MDK",
 		"summary": "The game tells the story of Kurt Hectic, a janitor who reluctantly must attempt to save Earth from an alien invasion of gigantic strip mining city-size vehicles named \"Minecrawlers\". These Minecrawlers are not only removing all of earth's natural resources, but are also crushing any people and cities that get in their way. Aided by his boss, the (possibly) insane inventor/scientist Dr. Fluke Hawkins, and a genetically engineered robotic two-legged/four-armed dog named Bones (although he prefers Max), Kurt must infiltrate each Minecrawler, and fight his way to the pilot, whom he must then kill before returning to Hawkins' in-orbit space station, the Jim Dandy.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co255x.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co255x.jpg",
 		"platformId": 6
 	},
 	{
 		"id": 7967,
 		"name": "Colin McRae Rally",
 		"summary": "Colin McRae Rally is the first entry in the Colin McRae Rally franchise. The game features twelve different laser modeled vehicles in which players can compete against the clock and your rivals over fifty unique stages from eight different countries.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94nt.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co94nt.jpg",
 		"platformId": 7
 	},
 	{
 		"id": 1185,
 		"name": "Crash Bandicoot",
 		"summary": "Crash Bandicoot is the first installment in the Crash Bandicoot series that established Naughty Dog's reputation in the video game industry. Its premises chronicle the creation of the titular Crash, a bandicoot who has been uplifted by the mad scientist Doctor Neo Cortex. The goal of Crash Bandicoot is to traverses several levels in sequence in order to progress. The game is played from a third-person perspective in which the camera trails behind Crash, though some levels showcase forward-scrolling and side-scrolling perspectives. Crash is able to defeat enemies by either jumping on them or using a spinning attack that launches them.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co555l.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co555l.jpg",
 		"platformId": 7
 	},
 	{
 		"id": 1254,
 		"name": "DmC: Devil May Cry",
 		"summary": "DmC: Devil May Cry is the fifth game in the hack-and-slash third-person action series and the first not largely developed by Capcom. This title is a reimagining of the series, with the same protagonist Dante, but set in an alternate universe. The Dante in this game is very different from before, doing away with the trademark white hair and altering the main character as well as the game's tone with a much more Western influence. The gameplay is still largely identical as Dante engages many opponents with a fast fighting style, stringing together combos and hits in quick succession.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u77.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u77.jpg",
 		"platformId": 9
 	},
 	{
 		"id": 1009,
 		"name": "The Last of Us",
 		"summary": "A third person shooter/stealth/survival hybrid, in which twenty years after the outbreak of a parasitic fungus which takes over the neural functions of humans, Joel, a Texan with a tragic familial past, finds himself responsible with smuggling a fourteen year old girl named Ellie to a militia group called the Fireflies, while avoiding strict and deadly authorities, infected fungal hosts and other violent survivors.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r7f.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r7f.jpg",
 		"platformId": 9
 	},
 	{
 		"id": 434,
 		"name": "Red Dead Redemption",
 		"summary": "A modern-day Western epic, Red Dead Redemption takes John Marston, a relic from the fast-closing time of the gunslinger, through an open world filled with wildlife, mini-games, and shootouts. Marston sets out to hunt down his old gang mates for the government, who have taken away his family. Along his journey, he meets many characters emblematic of the Wild West, heroism, and the new civilization.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lcv.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lcv.jpg",
 		"platformId": 9
 	},
 	{
 		"id": 565,
 		"name": "Uncharted 2: Among Thieves",
 		"summary": "In the sequel to Drake's Fortune, Nathan Drake comes across a map that showcases the location of Marco Polo's missing ships. It takes him on a journey to find the infamous Cintamani Stone, and uncover the truth behind it.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tnb.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tnb.jpg",
 		"platformId": 9
 	},
 	{
 		"id": 512,
 		"name": "Uncharted 3: Drake's Deception",
 		"summary": "A search for the fabled \"Atlantis of the Sands\" propels fortune hunter Nathan Drake on a trek into the heart of the Arabian Desert. When the terrible secrets of this lost city are unearthed, Drake's quest descends into a desperate bid for survival that strains the limits of his endurance and forces him to confront his deepest fears.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tp8.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tp8.jpg",
 		"platformId": 9
 	},
 	{
 		"id": 113,
 		"name": "Assassin's Creed Brotherhood",
 		"summary": "Live and breathe as Ezio, a legendary Master Assassin, in his enduring struggle against the powerful Templar Order. He must journey into Italy’s greatest city, Rome, center of power, greed and corruption to strike at the heart of the enemy.\nDefeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire Brotherhood who will rally to his side. Only by working together can the Assassins defeat their mortal enemies.\nAnd for the first time, introducing a never-before-seen multiplayer layer that allows you to choose from a wide range of unique characters, each with their own signature weapons and assassination techniques, and match your skills against other players from around the world.\nIt’s time to join the Brotherhood.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6t4d.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co6t4d.jpg",
 		"platformId": 9
 	},
 	{
 		"id": 1164,
 		"name": "Tomb Raider",
 		"summary": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
-		"url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rbu.jpg",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rbu.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 299,
+		"name": "Age of Empires III",
+		"platformId": 6,
+		"summary": "In this highly anticipated next installment in the Age of Empires franchise from Ensemble Studios, Age of Empires III places players in the time period of roughly 1500–1850, picking up where Age of Empires II: The Age of Kings left off. As players work to establish their empire, they take on the role of a European power struggling to explore, colonize, and conquer North and South America.\n\nAge of Empires III introduces exciting new gameplay elements, including the all-new Home City and an incredible combat system. Players have new civilizations to discover, random maps to conquer, and a single-player campaign unlike any other. Players also find stunning graphics as a result of a revolutionary graphics engine that pushes the limits of PC graphics technology in an entirely new way.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xy6.jpg"
+	},
+	{
+		"id": 2558,
+		"name": "Dragon Ball GT: Final Bout",
+		"summary": "After achieving cult hit status around the globe, Dragon Ball GT has finally arrived in the U.S. This polygon rendered fighting game features 10 of the best warriors from the animated television series going head-to-head in a no-holds-barred tournament. Each player has devastating finishing moves, including the infamous \"Meteor Smash\", which can be countered by an opponent, resulting in some of the most incredible power struggles you'll ever see! There are also 8 playable hidden characters and a practice mode that lets you build up the skills of each fighter. Now, you can find out what gamers around the world already know -- Dragon Ball GT is the ultimate fighting game!",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co54d3.jpg",
+		"platformId": 7
+	},
+	{
+		"id": 43673,
+		"name": "Quake III: Revolution",
+		"platforms": [
+			8
+		],
+		"summary": "Quake III Revolution featuring several elements adopted from Team Arena, along with a more mission-based single-player mode. It features split-screen multiplayer for up to 4 players, but lacks online play",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co48h5.jpg",
+		"platformId": 8
+	},
+	{
+		"id": 135,
+		"name": "Devil May Cry 2",
+		"summary": "Devil May Cry 2 is the sequel to Devil May Cry. From the start of the game, the player controls Dante or his new partner Lucia through various levels as they battle waves of demons. This game features an Amulet system, with different parts being acquired throughout the levels that can be equipped by accessing the pause menu. The different parts of the amulet can be equipped to change aspects of the characters Devil Triggers form like elemental moves, time stop abilities, faster movement, flight abilities, etc.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co3diu.jpg",
+		"platformId": 8
+	},
+	{
+		"id": 425,
+		"name": "Final Fantasy VIII",
+		"summary": "Final Fantasy VIII is the eighth main installment in the Final Fantasy series. The gameplay makes a departure from many series standards. While it still uses the Active Time Battle system, it deviates from the series' traditional means of boosting a character's power via leveling, although levels are not completely abandoned as they were in Final Fantasy II. In addition, it does not have a Magic Point-based system for spell-casting. Instead, magic is collected, drawn, and created from items, and is used to power up the characters via the junction system.",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2z7d.jpg",
+		"platformId": 7
+	},
+	{
+		"id": 45213,
+		"name": "O.D.T.: Escape... ...Or Die Trying",
+		"summary": "Find yourself immersed in an atmosphere of mystery, magic and mayhem. Fight your way through incredible, multi-leveled, 3D worlds while searching for a magical green pearl that will help save millions from decimation. With hand-to-hand combat, devastating weapon power and some amazing magic spells, O.D.T. leads you deep into a mysterious tower full of hideous enemies and hidden dangers - it gets tough but there's no turning back!",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2j5t.jpg",
+		"platformId": 7
+	},
+	{
+		"id": 327,
+		"name": "Age of Empires II: The Age of Kings",
+		"summary": "Take control of a powerful civilization. Lead them through 1000 years of the Middle Ages to riches and greatness. Will you Intimidate the world into following you by using military force? Rule the world with honor and nobility by using commerce and diplomacy? Or Underhandedly seize power through conspiracy, deception and regicide? There are many paths to power, there can only be one ruler!",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co55xo.jpg",
 		"platformId": 6
 	}
 ]

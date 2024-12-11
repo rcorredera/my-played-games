@@ -2,7 +2,7 @@
   <div>
     <div class="game-list">
       <div v-for="game in paginatedGames" :key="game.id" class="game-item">
-        <img :src="game.url" :alt="game.name" class="game-image">
+        <img :src="game.coverUrl" :alt="game.name" class="game-image">
         <h3>{{ game.name }}</h3>
       </div>
     </div>

@@ -51,7 +51,8 @@ async function fetchGameFromIGDB(gameId, clientId, accessToken) {
 				return null;
 			}
 			const coverData = await coverResponse.json();
-			game.coverUrl = coverData[0]?.url;
+			game.coverUrl = `https:${coverData[0]?.url}`;
+			game.platformId = game.platforms[0];
 			if (game.coverUrl) {
 				console.log(`URL de la couverture récupérée: ${game.coverUrl}`);
 			} else {
