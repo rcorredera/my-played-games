@@ -22,7 +22,25 @@ The project is organized into the following directories and files:
 - **locales:** This directory contains JSON files (en.json and fr.json) for localization.
 - **public:** This directory contains static files, such as the vite.svg file and a directory for flags.
 - **dist:** This directory contains the compiled output of the project.
+## Adding a Game to the List
 
+To add a game to the list, you can use the `addGame.mjs` script. This script fetches game information from the IGDB API and adds it to the JSON file containing the games.
+
+### Prerequisites
+
+- Ensure that Node.js is installed on your machine.
+- Obtain your `CLIENT_ID` and `ACCESS_TOKEN` from the IGDB API.
+
+### Usage
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing the `addGame.mjs` script.
+3. Run the following command, replacing `<CLIENT_ID>`, `<ACCESS_TOKEN>`, and `<GAME_ID>` with your actual values:
+
+   ```
+   node addGame.mjs <CLIENT_ID> <ACCESS_TOKEN> <GAME_ID>
+   ```
+    
 ## Notable Aspects
 
 - The use of Vue.js and TypeScript indicates a focus on component-based development and type safety.
@@ -30,6 +48,13 @@ The project is organized into the following directories and files:
 - The organization of components, data, and locales into separate directories demonstrates a clear structure for managing different aspects of the application.
 - The use of JSON files for game data and localization highlights a modular approach to managing application data and resources.
 - The inclusion of SVG files and CSS files in the assets directory indicates a focus on visual design and user interface.
+
+
+### Prerequisites
+
+- Ensure that Node.js is installed on your machine.
+- Obtain your `CLIENT_ID` and `ACCESS_TOKEN` from the IGDB API.
+
 
 ## Further Learning
 
