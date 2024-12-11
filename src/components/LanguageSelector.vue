@@ -15,8 +15,8 @@ export default defineComponent({
 		const { locale } = useI18n();
 
 		const availableLanguages = [
-			{ code: "en", name: "English", flag: "/flags/en.png" },
-			{ code: "fr", name: "Français", flag: "/flags/fr.png" },
+			{ code: "en", name: "English", flag: "./flags/en.png" },
+			{ code: "fr", name: "Français", flag: "./flags/fr.png" },
 			// Ajoutez d'autres langues ici
 		];
 

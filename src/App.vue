@@ -40,7 +40,7 @@ export default defineComponent({
   setup() {
     const games = ref(gamesData);
     const searchQuery = ref("");
-    const selectedPlatform = ref("");
+    const selectedPlatform = ref(0);
 
     const uniquePlatforms = computed(() => {
       return [...new Set(games.value.map((game) => game.platform))];
@@ -51,16 +51,16 @@ export default defineComponent({
         (game) =>
           (game.name.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
             game.platform.toLowerCase().includes(searchQuery.value.toLowerCase())) &&
-          (selectedPlatform.value === "" || game.platform === selectedPlatform.value)
+          (selectedPlatform.value === 0 || game.platformId === selectedPlatform.value)
       ).sort((a, b) => a.name.localeCompare(b.name)); // Tri par ordre alphabétique
     });
 
-    const filterByPlatform = (platform: string) => {
-      selectedPlatform.value = platform;
+    const filterByPlatform = (platformId: number) => {
+      selectedPlatform.value = platformId;
     };
 
     const clearAllFilters = () => {
-      selectedPlatform.value = "";
+      selectedPlatform.value = 0;
       searchQuery.value = "";
     };
 

@@ -4,7 +4,6 @@
       <div v-for="game in paginatedGames" :key="game.id" class="game-item">
         <img :src="game.url" :alt="game.name" class="game-image">
         <h3>{{ game.name }}</h3>
-        <p>{{ game.platform }}</p>
       </div>
     </div>
     <div class="pagination-controls">

@@ -1,30 +1,49 @@
 <template>
   <div class="quick-filters">
     <button 
-      v-for="platform in platforms" 
-      :key="platform"
-      @click="$emit('filter', platform)"
-      :class="{ active: selectedPlatform === platform }"
+      v-for="platform in filteredPlatforms"
+      :key="platform.id"
+      @click="$emit('filter', platform.id)"
+      :class="{ active: selectedPlatform === platform.id }"
       class="platform-filter"
     >
-      <img :src="getPlatformIcon(platform)" :alt="platform" class="platform-icon">
-      {{ platform }}
+      <img :src="getPlatformIcon(platform.id)" :alt="platform.name" class="platform-icon">
+      {{ platform.name }}
     </button>
     <button @click="$emit('clear')" class="clear-filter">{{ $t('clearFilters') }}</button>
   </div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import { getPlatformIcon } from "@/components/PlatformIcons";
+import { defineComponent, computed } from "vue";
+import platformsData from "../data/platforms.json"; // Importez les données des plateformes
+import gamesData from "../data/games.json"; // Importez les données des jeux
 
 export default defineComponent({
   props: {
-    platforms: Array,
-    selectedPlatform: String
+    selectedPlatform: Number,
   },
-  methods: {
-    getPlatformIcon
+  setup() {
+    // Obtenez les plateformes uniques à partir des jeux
+    const uniquePlatformIds = computed(() => {
+      const platformIds = gamesData.map((game: any) => game.platformId);
+      return [...new Set(platformIds)];
+    });
+
+    // Filtrez les plateformes disponibles
+    const filteredPlatforms = computed(() => {
+      return platformsData.filter((platform: any) => uniquePlatformIds.value.includes(platform.id));
+    });
+
+    const getPlatformIcon = (platformId: number) => {
+      const platform = platformsData.find((p: any) => p.id === platformId);
+      return platform ? platform.iconUrl : '';
+    };
+
+    return {
+      filteredPlatforms,
+      getPlatformIcon
+    };
   }
 });
 </script>
