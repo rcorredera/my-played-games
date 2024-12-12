@@ -10,7 +10,7 @@
             </div>
             <p><strong>Summary:</strong> {{ game.summary }}</p>
             <p><strong>First Release Date:</strong> {{ formatDate(game.first_release_date) }}</p>
-            <p><strong>Rating:</strong> {{ game.rating }}/100</p>
+            <p><strong>Rating:</strong> {{ game.rating.toFixed(2) }}/100</p>
             <a :href="game.url" target="_blank">More Info</a>
         </div>
     </div>
