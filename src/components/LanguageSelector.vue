@@ -1,9 +1,9 @@
 <template>
-  <div class="language-selector">
-    <button v-for="lang in availableLanguages" :key="lang.code" @click="changeLanguage(lang.code)">
-      <img :src="lang.flag" :alt="lang.name" class="flag-icon">
-    </button>
-  </div>
+	<div class="language-selector">
+		<button v-for="lang in availableLanguages" :key="lang.code" @click="changeLanguage(lang.code)">
+			<img :src="lang.flag" :alt="lang.name" class="flag-icon">
+		</button>
+	</div>
 </template>
 
 <script lang="ts">
@@ -34,13 +34,13 @@ export default defineComponent({
 
 <style scoped>
 .language-selector {
-  display: flex;
-  gap: 10px;
+	display: flex;
+	gap: 10px;
 }
 
 .flag-icon {
-  width: 24px;
-  height: 24px;
-  cursor: pointer;
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
 }
 </style>

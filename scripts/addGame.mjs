@@ -21,7 +21,7 @@ async function fetchGameFromIGDB(gameId, clientId, accessToken) {
 				Authorization: `Bearer ${accessToken}`,
 				"Content-Type": "text/plain",
 			},
-			body: `fields id,name,platforms,summary; where id = ${gameId};`,
+			body: `fields id,name,platforms,summary, rating, first_release_date, url; where id = ${gameId};`,
 		});
 
 		if (!response.ok) {
@@ -51,7 +51,8 @@ async function fetchGameFromIGDB(gameId, clientId, accessToken) {
 				return null;
 			}
 			const coverData = await coverResponse.json();
-			game.coverUrl = `https:${coverData[0]?.url}`;
+			game.coverUrl = `https:${coverData[0]?.url}`.replace('t_thumb', 't_cover_big');
+			game.thumbUrl = `https:${coverData[0]?.url}`;
 			game.platformId = game.platforms[0];
 			if (game.coverUrl) {
 				console.log(`URL de la couverture récupérée: ${game.coverUrl}`);

@@ -7,79 +7,98 @@
     <div class="fixed-header">
       <h1>{{ $t('title') }}</h1>
       <SearchBar v-model="searchQuery" :placeholder="$t('searchPlaceholder')" />
-      <QuickFilters 
-        :platforms="uniquePlatforms" 
-        :selected-platform="selectedPlatform"
-        @filter="filterByPlatform"
-        @clear="clearAllFilters"
-      />
+      <QuickFilters :platforms="uniquePlatforms" :selected-platform="selectedPlatform" @filter="filterByPlatform"
+        @clear="clearAllFilters" />
     </div>
-    <div class="game-list-container">
-      <GameList :games="filteredGames" />
-    </div>
+    <GameList :games="filteredGames" @select="openModal" />
+    <GameModal v-if="selectedGame" :game="selectedGame" :platforms="platforms" :isVisible="isModalVisible"
+      @close="closeModal" />
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent, ref, computed } from "vue";
-import SearchBar from "./components/SearchBar.vue";
-import QuickFilters from "./components/QuickFilters.vue";
-import GameList from "./components/GameList.vue";
-import LanguageSelector from "./components/LanguageSelector.vue";
-import ThemeToggle from "./components/ThemeToggle.vue";
-import gamesData from "./data/games.json";
+import SearchBar from "@/components/SearchBar.vue";
+import QuickFilters from "@/components/QuickFilters.vue";
+import GameList from "@/components/GameList.vue";
+import LanguageSelector from "@/components/LanguageSelector.vue";
+import ThemeToggle from "@/components/ThemeToggle.vue";
+import GameModal from '@/components/GameModal.vue';
+import platformsData from "@/data/platforms.json";
+import gamesData from "@/data/games.json";
+
+import type { Game, Platform } from '@/types';
 
 export default defineComponent({
-	components: {
-		SearchBar,
-		QuickFilters,
-		GameList,
-		LanguageSelector,
-		ThemeToggle,
-	},
-	setup() {
-		const games = ref(gamesData);
-		const searchQuery = ref("");
-		const selectedPlatform = ref(0);
+  components: {
+    SearchBar,
+    QuickFilters,
+    GameList,
+    GameModal,
+    LanguageSelector,
+    ThemeToggle,
+  },
+  setup() {
+    const games = ref<Game[]>(gamesData);
+    const platforms = ref<Platform[]>(platformsData);
+    const searchQuery = ref<string>("");
+    const selectedPlatform = ref<Platform | null>(null);
 
-		const uniquePlatforms = computed(() => {
-			return [...new Set(games.value.map((game) => game.platform))];
-		});
+    const uniquePlatforms = computed<Platform[]>(() => {
+      const platformIds = Array.from(new Set(games.value.map(game => game.platformId)));
+      return platforms.value.filter(platform => platformIds.includes(platform.id));
+    });
 
-		const filteredGames = computed(() => {
-			return games.value
-				.filter(
-					(game) =>
-						(game.name
-							.toLowerCase()
-							.includes(searchQuery.value.toLowerCase()) ||
-							game.platform
-								.toLowerCase()
-								.includes(searchQuery.value.toLowerCase())) &&
-						(selectedPlatform.value === 0 ||
-							game.platformId === selectedPlatform.value),
-				)
-				.sort((a, b) => a.name.localeCompare(b.name)); // Tri par ordre alphabétique
-		});
+    const filteredGames = computed<Game[]>(() => {
+      return games.value
+        .filter(
+          (game) =>
+            (game.name
+              .toLowerCase()
+              .includes(searchQuery.value.toLowerCase())) &&
+            (selectedPlatform.value === null ||
+              game.platformId === selectedPlatform.value.id),
+        )
+        .sort((a, b) => a.name.localeCompare(b.name)); // Tri par ordre alphabétique
+    });
 
-		const filterByPlatform = (platformId: number) => {
-			selectedPlatform.value = platformId;
-		};
+    const selectedGame = ref<Game | null>(null);
+    const isModalVisible = ref<boolean>(false);
 
-		const clearAllFilters = () => {
-			selectedPlatform.value = 0;
-			searchQuery.value = "";
-		};
+    function openModal(game: Game) {
+      selectedGame.value = game;
+      isModalVisible.value = true;
+      console.log(`Open modal for game: ${game.name}`);
+    }
 
-		return {
-			searchQuery,
-			filteredGames,
-			uniquePlatforms,
-			selectedPlatform,
-			filterByPlatform,
-			clearAllFilters,
-		};
-	},
+    function closeModal() {
+      isModalVisible.value = false;
+      selectedGame.value = null;
+    }
+
+    const filterByPlatform = (platform: Platform) => {
+      selectedPlatform.value = platform;
+    };
+
+    const clearAllFilters = () => {
+      selectedPlatform.value = null;
+      searchQuery.value = "";
+    };
+
+    return {
+      searchQuery,
+      filteredGames,
+      uniquePlatforms,
+      selectedPlatform,
+      filterByPlatform,
+      clearAllFilters,
+      openModal,
+      closeModal,
+      selectedGame,
+      isModalVisible,
+      platforms
+    };
+  },
 });
 </script>
 
@@ -122,27 +141,15 @@ h1 {
   font-size: 2.5rem;
 }
 
-.game-list-container {
-  width: 100%;
-  max-width: 1200px;
-  padding: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 20px;
-  background-color: var(--background-color); /* Utilise la couleur de fond du thème */
-  color: var(--text-color); /* Utilise la couleur du texte du thème */
-
-}
-
 .pagination-controls {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-  background-color: var(--background-color); /* Utilise la couleur de fond du thème */
-  color: var(--text-color); /* Utilise la couleur du texte du thème */
+  background-color: var(--background-color);
+  /* Utilise la couleur de fond du thème */
+  color: var(--text-color);
+  /* Utilise la couleur du texte du thème */
   padding: 10px;
   border-radius: 5px;
 }

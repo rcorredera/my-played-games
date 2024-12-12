@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="game-list">
-      <div v-for="game in paginatedGames" :key="game.id" class="game-item">
+      <div v-for="game in paginatedGames" :key="game.id" class="game-item" @click="selectGame(game)">
         <img :src="game.coverUrl" :alt="game.name" class="game-image">
         <h3>{{ game.name }}</h3>
       </div>
@@ -16,52 +16,59 @@
 
 <script lang="ts">
 import { defineComponent, ref, computed, watch } from "vue";
+import type { Game } from '@/types';
 
 export default defineComponent({
-	props: {
-		games: {
-			type: Array,
-			required: true,
-		},
-	},
-	setup(props) {
-		const itemsPerPage = ref(5); // Nombre d'éléments par page
-		const currentPage = ref(1);
+  props: {
+    games: {
+      type: Array as () => Game[],
+      required: true,
+    },
+  },
+  emits: ['select'],
+  setup(props, { emit }) {
+    const itemsPerPage = ref(5); // Nombre d'éléments par page
+    const currentPage = ref(1);
 
-		const totalPages = computed(() =>
-			Math.ceil(props.games.length / itemsPerPage.value),
-		);
+    const totalPages = computed(() =>
+      Math.ceil(props.games.length / itemsPerPage.value),
+    );
 
-		const paginatedGames = computed(() => {
-			const start = (currentPage.value - 1) * itemsPerPage.value;
-			const end = start + itemsPerPage.value;
-			return props.games.slice(start, end);
-		});
+    const paginatedGames = computed(() => {
+      const start = (currentPage.value - 1) * itemsPerPage.value;
+      const end = start + itemsPerPage.value;
+      return props.games.slice(start, end);
+    });
 
-		const nextPage = () => {
-			if (currentPage.value < totalPages.value) {
-				currentPage.value++;
-			}
-		};
+    const nextPage = () => {
+      if (currentPage.value < totalPages.value) {
+        currentPage.value++;
+      }
+    };
 
-		const prevPage = () => {
-			if (currentPage.value > 1) {
-				currentPage.value--;
-			}
-		};
+    const prevPage = () => {
+      if (currentPage.value > 1) {
+        currentPage.value--;
+      }
+    };
 
-		watch(currentPage, (newPage) => {
-			if (newPage < 1) currentPage.value = 1;
-			if (newPage > totalPages.value) currentPage.value = totalPages.value;
-		});
-		return {
-			paginatedGames,
-			currentPage,
-			totalPages,
-			nextPage,
-			prevPage,
-		};
-	},
+    const selectGame = (game: Game) => {
+      emit('select', game);
+    };
+    watch(currentPage, (newPage) => {
+      if (newPage < 1) currentPage.value = 1;
+      if (newPage > totalPages.value) currentPage.value = totalPages.value;
+    });
+
+    return {
+      paginatedGames,
+      currentPage,
+      totalPages,
+      nextPage,
+      prevPage,
+      selectGame,
+    };
+  },
 });
 </script>
 
@@ -72,10 +79,14 @@ export default defineComponent({
   gap: 20px;
   justify-content: center;
   align-items: flex-start;
-  min-height: 450px; /* Fixe la hauteur pour éviter le déplacement */
-  width: 100%; /* Utilise toute la largeur disponible */
-  max-width: 800px; /* Fixe la largeur maximale */
-  margin: 0 auto; /* Centre le conteneur horizontalement */
+  min-height: 450px;
+  /* Fixe la hauteur pour éviter le déplacement */
+  width: 100%;
+  /* Utilise toute la largeur disponible */
+  max-width: 800px;
+  /* Fixe la largeur maximale */
+  margin: 0 auto;
+  /* Centre le conteneur horizontalement */
   padding: 20px;
   border-radius: 8px;
 }
@@ -83,6 +94,7 @@ export default defineComponent({
 .game-item {
   width: 90px;
   text-align: center;
+  cursor: pointer;
 }
 
 .game-image {
