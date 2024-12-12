@@ -17,7 +17,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, computed } from "vue";
+import { defineComponent, ref, computed, onMounted } from "vue";
 import SearchBar from "@/components/SearchBar.vue";
 import QuickFilters from "@/components/QuickFilters.vue";
 import GameList from "@/components/GameList.vue";

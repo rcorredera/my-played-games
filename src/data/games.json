@@ -482,5 +482,115 @@
 		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69sm.jpg",
 		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co69sm.jpg",
 		"platformId": 6
+	},
+	{
+		"id": 1266,
+		"first_release_date": 1351555200,
+		"name": "Assassin's Creed III",
+		"rating": 73.29412336000262,
+		"summary": "The American Colonies, 1775. A brave young warrior fights to save his homeland. But what begins as a struggle over territory turns into an extraordinary journey that will transform him into a Master Assassin—and will forever change the destiny of a nation.\n\nYou are Connor, warrior son of a Native American mother and British father. As the colonies draw closer to revolution, you will dedicate your life to the freedom of your clan –becoming the spark that ignites the revolution into full blaze. Your crusade will take you through blood-soaked battlefields to crowded city streets, to perilous wilderness and beyond. You will not only witness history—you will make it.\nWelcome to an entirely new chapter in the Assassin’s Creed saga.",
+		"url": "https://www.igdb.com/games/assassin-s-creed-iii",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xii.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xii.jpg",
+		"platformId": 9
+	},
+	{
+		"id": 7570,
+		"first_release_date": 1415664000,
+		"name": "Assassin's Creed Rogue",
+		"rating": 73.0330497719383,
+		"summary": "Assassin's Creed Rogue is a 2014 action-adventure video game developed by Ubisoft Sofia and published by Ubisoft. It is the seventh major installment in the Assassin's Creed series, and is set between 2012's Assassin's Creed III and 2013's Assassin's Creed IV: Black Flag. It also has ties to Assassin's Creed Unity, which was released on the same day as Rogue. It is the last Assassin's Creed game to be developed for the seventh generation of consoles, being released for PlayStation 3 and Xbox 360 in November 2014 and for Windows in March 2015.",
+		"url": "https://www.igdb.com/games/assassins-creed-rogue",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xir.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xir.jpg",
+		"platformId": 9
+	},
+	{
+		"id": 5606,
+		"first_release_date": 1415664000,
+		"name": "Assassin's Creed Unity",
+		"rating": 71.39105485821642,
+		"summary": "Paris, 1789. The French Revolution turns a once-magnificent city into a place of terror and chaos. Its cobblestoned streets run red with the blood of commoners who dare to rise up against an oppressive aristocracy. Yet as the nation tears itself apart, a young man named Arno will embark upon an extraordinary journey to expose the true powers behind the Revolution. His pursuit will throw him into the middle of a ruthless struggle for the fate of a nation, and transform him into a true Master Assassin.",
+		"url": "https://www.igdb.com/games/assassins-creed-unity",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xiq.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xiq.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 127,
+		"first_release_date": 1258416000,
+		"name": "Assassin's Creed II",
+		"rating": 86.83357526531955,
+		"summary": "Discover an intriguing and epic story of power, revenge and conspiracy set during a pivotal moment in history: the Italian Renaissance.\nExperience the freedom and immersion of an all new open world and mission structure with settings such as the rooftops and canals of beautiful Venice. Your options in combat, assassination and escape are vast, with many new weapons, settings and gameplay elements.",
+		"url": "https://www.igdb.com/games/assassin-s-creed-ii",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rcf.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rcf.jpg",
+		"platformId": 9
+	},
+	{
+		"id": 1970,
+		"first_release_date": 1383004800,
+		"name": "Assassin's Creed IV Black Flag",
+		"rating": 83.06374357632164,
+		"summary": "Assassin’s Creed IV Black Flag begins in 1715, when pirates established a lawless republic in the Caribbean and ruled the land and seas. These outlaws paralyzed navies, halted international trade, and plundered vast fortunes. They threatened the power structures that ruled Europe, inspired the imaginations of millions, and left a legacy that still endures.",
+		"url": "https://www.igdb.com/games/assassins-creed-iv-black-flag",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4qfn.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qfn.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 748,
+		"first_release_date": 1033344000,
+		"name": "Hitman 2: Silent Assassin",
+		"rating": 81.08616104420973,
+		"summary": "Enter the realm of a retired assassin, forced back into action by treason. You may be a hired killer but you still have a sense of loyalty and justice. Visit the dark recesses of a world corrupted by crime, greed, degradation and dishonor. And a past that catches up with you.\n\nTrust no one - if the price is right, the finger of your most trusted ally will be on the trigger. Your targets may hide in the most remote areas of the planet, but their destruction is never prevented - only postponed.\n\nLearn your trade - master your tools - overcome your obstacles - outsmart your enemies - eliminate your targets. Remember: rash decisions bleed consequences. Know when to strike instantly, know when to take your time. Chance favors the prepared. Failure is not an option.",
+		"url": "https://www.igdb.com/games/hitman-2-silent-assassin",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pdt.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1pdt.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 27827,
+		"first_release_date": 1207612800,
+		"name": "Assassin's Creed: Director's Cut Edition",
+		"rating": 71.45594455292729,
+		"summary": "Assassin's Creed is a non-linear action-adventure video game, during which the player controls a 12th-century Levantine Assassin named Altaïr Ibn-La'Ahad during the Third Crusade, whose life is experienced through the Animus by his 21st century descendant, Desmond Miles.\n\nThe Director's Cut Edition features four PC-exclusive memories, including the Rooftop Race Challenge, the Archer Stealth Assassination Challenge, Merchant Stand Destruction and Informant Escort Challenge.",
+		"url": "https://www.igdb.com/games/assassins-creed-directors-cut-edition",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zj6.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zj6.jpg",
+		"platformId": 6
+	},
+	{
+		"id": 731,
+		"first_release_date": 1209427200,
+		"name": "Grand Theft Auto IV",
+		"rating": 83.5323341073064,
+		"summary": "Grand Theft Auto IV is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It is the eleventh title in the Grand Theft Auto series, and the first main entry since 2004's Grand Theft Auto: San Andreas.\n\nThe game is played from a third-person perspective and its world is navigated on-foot or by vehicle. Throughout the single-player mode, players play as Niko Bellic. An online multiplayer mode is included with the game, allowing up to 32 players to engage in both co-operative and competitive gameplay in a recreation of the single-player setting.\n\nTwo expansion packs were later released for the game, The Lost and Damned and The Ballad of Gay Tony, which both feature new plots that are interconnected with the main Grand Theft Auto IV storyline, and follow new protagonists.",
+		"url": "https://www.igdb.com/games/grand-theft-auto-iv",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lbv.jpg",
+		"platformId": 9
+	},
+	{
+		"id": 732,
+		"first_release_date": 1098748800,
+		"name": "Grand Theft Auto: San Andreas",
+		"rating": 90.33211178535214,
+		"summary": "Returning after his mother's murder to the semi-fictional city of Los Santos (based on Los Angeles), Carl Johnson, a former gang banger, must take back the streets for his family and friends by gaining respect and once again gaining control over the streets. However, a story filled with crime, lies and corruption will lead him to trudge the entire state of San Andreas (based on California and Nevada) to rebuild his life.",
+		"url": "https://www.igdb.com/games/grand-theft-auto-san-andreas",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lb9.jpg",
+		"platformId": 9
+	},
+	{
+		"id": 733,
+		"first_release_date": 1035676800,
+		"name": "Grand Theft Auto: Vice City",
+		"rating": 87.50326778260339,
+		"summary": "In the year 1986, Tommy Vercetti is heavily indebted to his mafia superiors after a drug deal gone awry, but his dreams of taking over Vice City (based on Miami) push him down a different path. Featuring a wide variety of vehicles and weapons, radio stations playing hit songs from the era and an intense atmosphere, GTA: Vice City is an open-world sandbox satire of '80's Miami.",
+		"url": "https://www.igdb.com/games/grand-theft-auto-vice-city",
+		"coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbb.jpg",
+		"thumbUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lbb.jpg",
+		"platformId": 8
 	}
 ]
