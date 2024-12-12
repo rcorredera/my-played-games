@@ -1,1298 +1,1478 @@
 [
-	{
-		"id": 62,
-		"name": "Atari Jaguar",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7y.jpg",
-		"image_id": "pl7y"
-	},
-	{
-		"id": 477,
-		"name": "Panasonic Jungle",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnp.jpg",
-		"image_id": "plnp"
-	},
-	{
-		"id": 504,
-		"name": "Uzebox",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plor.jpg",
-		"image_id": "plor"
-	},
-	{
-		"id": 148,
-		"name": "AY-3-8607",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 65,
-		"name": "Atari 8-bit",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plad.jpg",
-		"image_id": "plad"
-	},
-	{
-		"id": 128,
-		"name": "PC Engine SuperGrafx",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla4.jpg",
-		"image_id": "pla4"
-	},
-	{
-		"id": 89,
-		"name": "Microvision",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8q.jpg",
-		"image_id": "pl8q"
-	},
-	{
-		"id": 8,
-		"name": "PlayStation 2",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl72.jpg",
-		"image_id": "pl72"
-	},
-	{
-		"id": 6,
-		"name": "PC (Microsoft Windows)",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plim.jpg",
-		"image_id": "plim"
-	},
-	{
-		"id": 23,
-		"name": "Dreamcast",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7i.jpg",
-		"image_id": "pl7i"
-	},
-	{
-		"id": 35,
-		"name": "Sega Game Gear",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7z.jpg",
-		"image_id": "pl7z"
-	},
-	{
-		"id": 44,
-		"name": "Tapwave Zodiac",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/lfsdnlko80ftakbugceu.jpg",
-		"image_id": "lfsdnlko80ftakbugceu"
-	},
-	{
-		"id": 88,
-		"name": "Odyssey",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 94,
-		"name": "Commodore Plus/4",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8m.jpg",
-		"image_id": "pl8m"
-	},
-	{
-		"id": 123,
-		"name": "WonderSwan Color",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl79.jpg",
-		"image_id": "pl79"
-	},
-	{
-		"id": 134,
-		"name": "Acorn Electron",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8d.jpg",
-		"image_id": "pl8d"
-	},
-	{
-		"id": 129,
-		"name": "Texas Instruments TI-99",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf0.jpg",
-		"image_id": "plf0"
-	},
-	{
-		"id": 133,
-		"name": "Odyssey 2 / Videopac G7000",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/fqwnmmpanb5se6ebccm3.jpg",
-		"image_id": "fqwnmmpanb5se6ebccm3"
-	},
-	{
-		"id": 135,
-		"name": "Hyper Neo Geo 64",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ubf1qgytr069wm0ikh0z.jpg",
-		"image_id": "ubf1qgytr069wm0ikh0z"
-	},
-	{
-		"id": 136,
-		"name": "Neo Geo CD",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7t.jpg",
-		"image_id": "pl7t"
-	},
-	{
-		"id": 142,
-		"name": "PC-50X Family",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/dpwrkxrjkuxwqroqwjsw.jpg",
-		"image_id": "dpwrkxrjkuxwqroqwjsw"
-	},
-	{
-		"id": 144,
-		"name": "AY-3-8710",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 146,
-		"name": "AY-3-8605",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 147,
-		"name": "AY-3-8606",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 149,
-		"name": "PC-9800 Series",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla6.jpg",
-		"image_id": "pla6"
-	},
-	{
-		"id": 150,
-		"name": "Turbografx-16/PC Engine CD",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl83.jpg",
-		"image_id": "pl83"
-	},
-	{
-		"id": 505,
-		"name": "Elektor TV Games Computer",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 156,
-		"name": "Thomson MO5",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plex.jpg",
-		"image_id": "plex"
-	},
-	{
-		"id": 158,
-		"name": "Commodore CDTV",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl84.jpg",
-		"image_id": "pl84"
-	},
-	{
-		"id": 163,
-		"name": "SteamVR",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ipbdzzx7z3rwuzm9big4.jpg",
-		"image_id": "ipbdzzx7z3rwuzm9big4"
-	},
-	{
-		"id": 237,
-		"name": "Sol-20",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 13,
-		"name": "DOS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/sqgw6vespav1buezgjjn.jpg",
-		"image_id": "sqgw6vespav1buezgjjn"
-	},
-	{
-		"id": 24,
-		"name": "Game Boy Advance",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl74.jpg",
-		"image_id": "pl74"
-	},
-	{
-		"id": 30,
-		"name": "Sega 32X",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7r.jpg",
-		"image_id": "pl7r"
-	},
-	{
-		"id": 85,
-		"name": "Donner Model 30",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 119,
-		"name": "Neo Geo Pocket",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plau.jpg",
-		"image_id": "plau"
-	},
-	{
-		"id": 41,
-		"name": "Wii U",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6n.jpg",
-		"image_id": "pl6n"
-	},
-	{
-		"id": 53,
-		"name": "MSX2",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8k.jpg",
-		"image_id": "pl8k"
-	},
-	{
-		"id": 140,
-		"name": "AY-3-8500",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/x42zeitpbuo2ltn7ybb2.jpg",
-		"image_id": "x42zeitpbuo2ltn7ybb2"
-	},
-	{
-		"id": 143,
-		"name": "AY-3-8760",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 60,
-		"name": "Atari 7800",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8f.jpg",
-		"image_id": "pl8f"
-	},
-	{
-		"id": 70,
-		"name": "Vectrex",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8h.jpg",
-		"image_id": "pl8h"
-	},
-	{
-		"id": 145,
-		"name": "AY-3-8603",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 77,
-		"name": "Sharp X1",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl89.jpg",
-		"image_id": "pl89"
-	},
-	{
-		"id": 78,
-		"name": "Sega CD",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7w.jpg",
-		"image_id": "pl7w"
-	},
-	{
-		"id": 87,
-		"name": "Virtual Boy",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7s.jpg",
-		"image_id": "pl7s"
-	},
-	{
-		"id": 97,
-		"name": "PDP-8",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 98,
-		"name": "DEC GT40",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 101,
-		"name": "Ferranti Nimrod Computer",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plaq.jpg",
-		"image_id": "plaq"
-	},
-	{
-		"id": 108,
-		"name": "PDP-11",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 109,
-		"name": "CDC Cyber 70",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plae.jpg",
-		"image_id": "plae"
-	},
-	{
-		"id": 112,
-		"name": "Microcomputer",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 113,
-		"name": "OnLive Game System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plan.jpg",
-		"image_id": "plan"
-	},
-	{
-		"id": 115,
-		"name": "Apple IIGS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl87.jpg",
-		"image_id": "pl87"
-	},
-	{
-		"id": 120,
-		"name": "Neo Geo Pocket Color",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7h.jpg",
-		"image_id": "pl7h"
-	},
-	{
-		"id": 124,
-		"name": "SwanCrystal",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8v.jpg",
-		"image_id": "pl8v"
-	},
-	{
-		"id": 125,
-		"name": "PC-8800 Series",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf2.jpg",
-		"image_id": "plf2"
-	},
-	{
-		"id": 127,
-		"name": "Fairchild Channel F",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8s.jpg",
-		"image_id": "pl8s"
-	},
-	{
-		"id": 132,
-		"name": "Amazon Fire TV",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl91.jpg",
-		"image_id": "pl91"
-	},
-	{
-		"id": 138,
-		"name": "VC 4000",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/phikgyfmv1fevj2jhzr5.jpg",
-		"image_id": "phikgyfmv1fevj2jhzr5"
-	},
-	{
-		"id": 139,
-		"name": "1292 Advanced Programmable Video System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/yfdqsudagw0av25dawjr.jpg",
-		"image_id": "yfdqsudagw0av25dawjr"
-	},
-	{
-		"id": 153,
-		"name": "Dragon 32/64",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8e.jpg",
-		"image_id": "pl8e"
-	},
-	{
-		"id": 154,
-		"name": "Amstrad PCW",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf7.jpg",
-		"image_id": "plf7"
-	},
-	{
-		"id": 155,
-		"name": "Tatung Einstein",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla8.jpg",
-		"image_id": "pla8"
-	},
-	{
-		"id": 506,
-		"name": "Amstrad GX4000",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plot.jpg",
-		"image_id": "plot"
-	},
-	{
-		"id": 306,
-		"name": "Satellaview",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgj.jpg",
-		"image_id": "plgj"
-	},
-	{
-		"id": 307,
-		"name": "Game & Watch",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pler.jpg",
-		"image_id": "pler"
-	},
-	{
-		"id": 308,
-		"name": "Playdia",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ples.jpg",
-		"image_id": "ples"
-	},
-	{
-		"id": 131,
-		"name": "Super NES CD-ROM System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plep.jpg",
-		"image_id": "plep"
-	},
-	{
-		"id": 9,
-		"name": "PlayStation 3",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/tuyy1nrqodtmbqajp4jg.jpg",
-		"image_id": "tuyy1nrqodtmbqajp4jg"
-	},
-	{
-		"id": 61,
-		"name": "Atari Lynx",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl82.jpg",
-		"image_id": "pl82"
-	},
-	{
-		"id": 11,
-		"name": "Xbox",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7e.jpg",
-		"image_id": "pl7e"
-	},
-	{
-		"id": 15,
-		"name": "Commodore C64/128/MAX",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pll3.jpg",
-		"image_id": "pll3"
-	},
-	{
-		"id": 18,
-		"name": "Nintendo Entertainment System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmo.jpg",
-		"image_id": "plmo"
-	},
-	{
-		"id": 66,
-		"name": "Atari 5200",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8g.jpg",
-		"image_id": "pl8g"
-	},
-	{
-		"id": 111,
-		"name": "Imlac PDS-1",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 22,
-		"name": "Game Boy Color",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7l.jpg",
-		"image_id": "pl7l"
-	},
-	{
-		"id": 32,
-		"name": "Sega Saturn",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/hrmqljpwunky1all3v78.jpg",
-		"image_id": "hrmqljpwunky1all3v78"
-	},
-	{
-		"id": 46,
-		"name": "PlayStation Vita",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6g.jpg",
-		"image_id": "pl6g"
-	},
-	{
-		"id": 67,
-		"name": "Intellivision",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8o.jpg",
-		"image_id": "pl8o"
-	},
-	{
-		"id": 73,
-		"name": "BlackBerry OS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/bezbkk17hk0uobdkhjcv.jpg",
-		"image_id": "bezbkk17hk0uobdkhjcv"
-	},
-	{
-		"id": 86,
-		"name": "TurboGrafx-16/PC Engine",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl88.jpg",
-		"image_id": "pl88"
-	},
-	{
-		"id": 114,
-		"name": "Amiga CD32",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7v.jpg",
-		"image_id": "pl7v"
-	},
-	{
-		"id": 116,
-		"name": "Acorn Archimedes",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plas.jpg",
-		"image_id": "plas"
-	},
-	{
-		"id": 117,
-		"name": "Philips CD-i",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl80.jpg",
-		"image_id": "pl80"
-	},
-	{
-		"id": 118,
-		"name": "FM Towns",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 121,
-		"name": "Sharp X68000",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8i.jpg",
-		"image_id": "pl8i"
-	},
-	{
-		"id": 122,
-		"name": "Nuon",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7g.jpg",
-		"image_id": "pl7g"
-	},
-	{
-		"id": 141,
-		"name": "AY-3-8610",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 152,
-		"name": "FM-7",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pley.jpg",
-		"image_id": "pley"
-	},
-	{
-		"id": 157,
-		"name": "NEC PC-6000 Series",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plaa.jpg",
-		"image_id": "plaa"
-	},
-	{
-		"id": 162,
-		"name": "Oculus VR",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pivaofe9ll2b8cqfvvbu.jpg",
-		"image_id": "pivaofe9ll2b8cqfvvbu"
-	},
-	{
-		"id": 20,
-		"name": "Nintendo DS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6t.jpg",
-		"image_id": "pl6t"
-	},
-	{
-		"id": 57,
-		"name": "WonderSwan",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7b.jpg",
-		"image_id": "pl7b"
-	},
-	{
-		"id": 69,
-		"name": "BBC Microcomputer System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl86.jpg",
-		"image_id": "pl86"
-	},
-	{
-		"id": 71,
-		"name": "Commodore VIC-20",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8p.jpg",
-		"image_id": "pl8p"
-	},
-	{
-		"id": 339,
-		"name": "Sega Pico",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgo.jpg",
-		"image_id": "plgo"
-	},
-	{
-		"id": 379,
-		"name": "Game.com",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgk.jpg",
-		"image_id": "plgk"
-	},
-	{
-		"id": 382,
-		"name": "Intellivision Amico",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkp.jpg",
-		"image_id": "plkp"
-	},
-	{
-		"id": 387,
-		"name": "Oculus Go",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkk.jpg",
-		"image_id": "plkk"
-	},
-	{
-		"id": 374,
-		"name": "Sharp MZ-2200",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 74,
-		"name": "Windows Phone",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla3.jpg",
-		"image_id": "pla3"
-	},
-	{
-		"id": 79,
-		"name": "Neo Geo MVS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/cbhfilmhdgwdql8nzsy0.jpg",
-		"image_id": "cbhfilmhdgwdql8nzsy0"
-	},
-	{
-		"id": 388,
-		"name": "Gear VR",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkj.jpg",
-		"image_id": "plkj"
-	},
-	{
-		"id": 80,
-		"name": "Neo Geo AES",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/hamfdrgnhenxb2d9g8mh.jpg",
-		"image_id": "hamfdrgnhenxb2d9g8mh"
-	},
-	{
-		"id": 375,
-		"name": "Epoch Cassette Vision",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plko.jpg",
-		"image_id": "plko"
-	},
-	{
-		"id": 376,
-		"name": "Epoch Super Cassette Vision",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkn.jpg",
-		"image_id": "plkn"
-	},
-	{
-		"id": 84,
-		"name": "SG-1000",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmn.jpg",
-		"image_id": "plmn"
-	},
-	{
-		"id": 91,
-		"name": "Bally Astrocade",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 170,
-		"name": "Google Stadia",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl94.jpg",
-		"image_id": "pl94"
-	},
-	{
-		"id": 377,
-		"name": "Plug & Play",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 384,
-		"name": "Oculus Quest",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plh7.jpg",
-		"image_id": "plh7"
-	},
-	{
-		"id": 385,
-		"name": "Oculus Rift",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln8.jpg",
-		"image_id": "pln8"
-	},
-	{
-		"id": 21,
-		"name": "Nintendo GameCube",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7a.jpg",
-		"image_id": "pl7a"
-	},
-	{
-		"id": 33,
-		"name": "Game Boy",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7m.jpg",
-		"image_id": "pl7m"
-	},
-	{
-		"id": 42,
-		"name": "N-Gage",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl76.jpg",
-		"image_id": "pl76"
-	},
-	{
-		"id": 93,
-		"name": "Commodore 16",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf4.jpg",
-		"image_id": "plf4"
-	},
-	{
-		"id": 96,
-		"name": "PDP-10",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 161,
-		"name": "Windows Mixed Reality",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plm4.jpg",
-		"image_id": "plm4"
-	},
-	{
-		"id": 479,
-		"name": "Terebikko / See 'n Say Video Phone",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 167,
-		"name": "PlayStation 5",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plos.jpg",
-		"image_id": "plos"
-	},
-	{
-		"id": 50,
-		"name": "3DO Interactive Multiplayer",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7u.jpg",
-		"image_id": "pl7u"
-	},
-	{
-		"id": 137,
-		"name": "New Nintendo 3DS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6j.jpg",
-		"image_id": "pl6j"
-	},
-	{
-		"id": 64,
-		"name": "Sega Master System/Mark III",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 274,
-		"name": "PC-FX",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf8.jpg",
-		"image_id": "plf8"
-	},
-	{
-		"id": 309,
-		"name": "Evercade",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plky.jpg",
-		"image_id": "plky"
-	},
-	{
-		"id": 381,
-		"name": "Playdate",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgx.jpg",
-		"image_id": "plgx"
-	},
-	{
-		"id": 95,
-		"name": "PDP-1",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 110,
-		"name": "PLATO",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plaf.jpg",
-		"image_id": "plaf"
-	},
-	{
-		"id": 372,
-		"name": "OOParts",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgi.jpg",
-		"image_id": "plgi"
-	},
-	{
-		"id": 378,
-		"name": "Gamate",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plhf.jpg",
-		"image_id": "plhf"
-	},
-	{
-		"id": 380,
-		"name": "Casio Loopy",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkm.jpg",
-		"image_id": "plkm"
-	},
-	{
-		"id": 100,
-		"name": "Analogue electronics",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 478,
-		"name": "Panasonic M2",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 236,
-		"name": "Exidy Sorcerer",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 26,
-		"name": "ZX Spectrum",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plab.jpg",
-		"image_id": "plab"
-	},
-	{
-		"id": 102,
-		"name": "EDSAC",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plat.jpg",
-		"image_id": "plat"
-	},
-	{
-		"id": 103,
-		"name": "PDP-7",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 27,
-		"name": "MSX",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8j.jpg",
-		"image_id": "pl8j"
-	},
-	{
-		"id": 104,
-		"name": "HP 2100",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 166,
-		"name": "Pokémon mini",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7f.jpg",
-		"image_id": "pl7f"
-	},
-	{
-		"id": 105,
-		"name": "HP 3000",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla9.jpg",
-		"image_id": "pla9"
-	},
-	{
-		"id": 106,
-		"name": "SDS Sigma 7",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 37,
-		"name": "Nintendo 3DS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln6.jpg",
-		"image_id": "pln6"
-	},
-	{
-		"id": 38,
-		"name": "PlayStation Portable",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl5y.jpg",
-		"image_id": "pl5y"
-	},
-	{
-		"id": 107,
-		"name": "Call-A-Computer time-shared mainframe computer system",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 151,
-		"name": "TRS-80 Color Computer",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf1.jpg",
-		"image_id": "plf1"
-	},
-	{
-		"id": 164,
-		"name": "Daydream",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/lwbdsvaveyxmuwnsga7g.jpg",
-		"image_id": "lwbdsvaveyxmuwnsga7g"
-	},
-	{
-		"id": 169,
-		"name": "Xbox Series X|S",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg",
-		"image_id": "plfl"
-	},
-	{
-		"id": 203,
-		"name": "DUPLICATE Stadia",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 238,
-		"name": "DVD Player",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plbu.jpg",
-		"image_id": "plbu"
-	},
-	{
-		"id": 239,
-		"name": "Blu-ray Player",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plbv.jpg",
-		"image_id": "plbv"
-	},
-	{
-		"id": 240,
-		"name": "Zeebo",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plbx.jpg",
-		"image_id": "plbx"
-	},
-	{
-		"id": 386,
-		"name": "Meta Quest 2",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pll0.jpg",
-		"image_id": "pll0"
-	},
-	{
-		"id": 99,
-		"name": "Family Computer",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnf.jpg",
-		"image_id": "plnf"
-	},
-	{
-		"id": 165,
-		"name": "PlayStation VR",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnc.jpg",
-		"image_id": "plnc"
-	},
-	{
-		"id": 405,
-		"name": "Windows Mobile",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkl.jpg",
-		"image_id": "plkl"
-	},
-	{
-		"id": 389,
-		"name": "AirConsole",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkq.jpg",
-		"image_id": "plkq"
-	},
-	{
-		"id": 390,
-		"name": "PlayStation VR2",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo5.jpg",
-		"image_id": "plo5"
-	},
-	{
-		"id": 406,
-		"name": "Sinclair QL",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plih.jpg",
-		"image_id": "plih"
-	},
-	{
-		"id": 407,
-		"name": "HyperScan",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj2.jpg",
-		"image_id": "plj2"
-	},
-	{
-		"id": 408,
-		"name": "Mega Duck/Cougar Boy",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj3.jpg",
-		"image_id": "plj3"
-	},
-	{
-		"id": 410,
-		"name": "Atari Jaguar CD",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj4.jpg",
-		"image_id": "plj4"
-	},
-	{
-		"id": 411,
-		"name": "Handheld Electronic LCD",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 409,
-		"name": "Legacy Computer",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 412,
-		"name": "Leapster",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj5.jpg",
-		"image_id": "plj5"
-	},
-	{
-		"id": 414,
-		"name": "LeapTV",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj6.jpg",
-		"image_id": "plj6"
-	},
-	{
-		"id": 413,
-		"name": "Leapster Explorer/LeadPad Explorer",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plna.jpg",
-		"image_id": "plna"
-	},
-	{
-		"id": 438,
-		"name": "Arduboy",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plk6.jpg",
-		"image_id": "plk6"
-	},
-	{
-		"id": 415,
-		"name": "Watara/QuickShot Supervision",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj7.jpg",
-		"image_id": "plj7"
-	},
-	{
-		"id": 439,
-		"name": "V.Smile",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plk7.jpg",
-		"image_id": "plk7"
-	},
-	{
-		"id": 441,
-		"name": "PocketStation",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkc.jpg",
-		"image_id": "plkc"
-	},
-	{
-		"id": 417,
-		"name": "Palm OS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj9.jpg",
-		"image_id": "plj9"
-	},
-	{
-		"id": 7,
-		"name": "PlayStation",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmb.jpg",
-		"image_id": "plmb"
-	},
-	{
-		"id": 416,
-		"name": "64DD",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj8.jpg",
-		"image_id": "plj8"
-	},
-	{
-		"id": 16,
-		"name": "Amiga",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 471,
-		"name": "Meta Quest 3",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnb.jpg",
-		"image_id": "plnb"
-	},
-	{
-		"id": 480,
-		"name": "Super A'Can",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plns.jpg",
-		"image_id": "plns"
-	},
-	{
-		"id": 47,
-		"name": "Virtual Console",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plao.jpg",
-		"image_id": "plao"
-	},
-	{
-		"id": 440,
-		"name": "Visual Memory Unit / Visual Memory System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plk8.jpg",
-		"image_id": "plk8"
-	},
-	{
-		"id": 472,
-		"name": "visionOS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnj.jpg",
-		"image_id": "plnj"
-	},
-	{
-		"id": 473,
-		"name": "Arcadia 2001",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnk.jpg",
-		"image_id": "plnk"
-	},
-	{
-		"id": 51,
-		"name": "Family Computer Disk System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8b.jpg",
-		"image_id": "pl8b"
-	},
-	{
-		"id": 474,
-		"name": "Gizmondo",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnl.jpg",
-		"image_id": "plnl"
-	},
-	{
-		"id": 25,
-		"name": "Amstrad CPC",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnh.jpg",
-		"image_id": "plnh"
-	},
-	{
-		"id": 52,
-		"name": "Arcade",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmz.jpg",
-		"image_id": "plmz"
-	},
-	{
-		"id": 29,
-		"name": "Sega Mega Drive/Genesis",
-		"iconUrl": "",
-		"image_id": ""
-	},
-	{
-		"id": 59,
-		"name": "Atari 2600",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln4.jpg",
-		"image_id": "pln4"
-	},
-	{
-		"id": 68,
-		"name": "ColecoVision",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8n.jpg",
-		"image_id": "pl8n"
-	},
-	{
-		"id": 475,
-		"name": "R-Zone",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnm.jpg",
-		"image_id": "plnm"
-	},
-	{
-		"id": 476,
-		"name": "Apple Pippin",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnn.jpg",
-		"image_id": "plnn"
-	},
-	{
-		"id": 481,
-		"name": "Tomy Tutor / Pyuta / Grandstand Tutor",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnt.jpg",
-		"image_id": "plnt"
-	},
-	{
-		"id": 486,
-		"name": "Digiblast",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo2.jpg",
-		"image_id": "plo2"
-	},
-	{
-		"id": 48,
-		"name": "PlayStation 4",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6f.jpg",
-		"image_id": "pl6f"
-	},
-	{
-		"id": 12,
-		"name": "Xbox 360",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plha.jpg",
-		"image_id": "plha"
-	},
-	{
-		"id": 34,
-		"name": "Android",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln3.jpg",
-		"image_id": "pln3"
-	},
-	{
-		"id": 482,
-		"name": "Sega CD 32X",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnu.jpg",
-		"image_id": "plnu"
-	},
-	{
-		"id": 49,
-		"name": "Xbox One",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl95.jpg",
-		"image_id": "pl95"
-	},
-	{
-		"id": 3,
-		"name": "Linux",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plak.jpg",
-		"image_id": "plak"
-	},
-	{
-		"id": 4,
-		"name": "Nintendo 64",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl78.jpg",
-		"image_id": "pl78"
-	},
-	{
-		"id": 55,
-		"name": "Legacy Mobile Device",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnd.jpg",
-		"image_id": "plnd"
-	},
-	{
-		"id": 5,
-		"name": "Wii",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl92.jpg",
-		"image_id": "pl92"
-	},
-	{
-		"id": 19,
-		"name": "Super Nintendo Entertainment System",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ifw2tvdkynyxayquiyk4.jpg",
-		"image_id": "ifw2tvdkynyxayquiyk4"
-	},
-	{
-		"id": 39,
-		"name": "iOS",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6w.jpg",
-		"image_id": "pl6w"
-	},
-	{
-		"id": 58,
-		"name": "Super Famicom",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/a9x7xjy4p9sqynrvomcf.jpg",
-		"image_id": "a9x7xjy4p9sqynrvomcf"
-	},
-	{
-		"id": 63,
-		"name": "Atari ST/STE",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla7.jpg",
-		"image_id": "pla7"
-	},
-	{
-		"id": 75,
-		"name": "Apple II",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8r.jpg",
-		"image_id": "pl8r"
-	},
-	{
-		"id": 82,
-		"name": "Web browser",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmx.jpg",
-		"image_id": "plmx"
-	},
-	{
-		"id": 90,
-		"name": "Commodore PET",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf3.jpg",
-		"image_id": "plf3"
-	},
-	{
-		"id": 126,
-		"name": "TRS-80",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plac.jpg",
-		"image_id": "plac"
-	},
-	{
-		"id": 159,
-		"name": "Nintendo DSi",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6u.jpg",
-		"image_id": "pl6u"
-	},
-	{
-		"id": 487,
-		"name": "LaserActive",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo4.jpg",
-		"image_id": "plo4"
-	},
-	{
-		"id": 14,
-		"name": "Mac",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg",
-		"image_id": "plo3"
-	},
-	{
-		"id": 373,
-		"name": "Sinclair ZX81",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgr.jpg",
-		"image_id": "plgr"
-	},
-	{
-		"id": 72,
-		"name": "Ouya",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6k.jpg",
-		"image_id": "pl6k"
-	},
-	{
-		"id": 130,
-		"name": "Nintendo Switch",
-		"iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgu.jpg",
-		"image_id": "plgu"
-	}
+  {
+    "id": 62,
+    "name": "Atari Jaguar",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7y.jpg",
+    "image_id": "pl7y",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7y.jpg"
+  },
+  {
+    "id": 477,
+    "name": "Panasonic Jungle",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnp.jpg",
+    "image_id": "plnp",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnp.jpg"
+  },
+  {
+    "id": 504,
+    "name": "Uzebox",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plor.jpg",
+    "image_id": "plor",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plor.jpg"
+  },
+  {
+    "id": 148,
+    "name": "AY-3-8607",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 65,
+    "name": "Atari 8-bit",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plad.jpg",
+    "image_id": "plad",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plad.jpg"
+  },
+  {
+    "id": 128,
+    "name": "PC Engine SuperGrafx",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla4.jpg",
+    "image_id": "pla4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pla4.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Microvision",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8q.jpg",
+    "image_id": "pl8q",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8q.jpg"
+  },
+  {
+    "id": 8,
+    "name": "PlayStation 2",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl72.jpg",
+    "image_id": "pl72",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl72.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PC (Microsoft Windows)",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plim.jpg",
+    "image_id": "plim",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plim.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Dreamcast",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7i.jpg",
+    "image_id": "pl7i",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7i.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Sega Game Gear",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7z.jpg",
+    "image_id": "pl7z",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7z.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Tapwave Zodiac",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/lfsdnlko80ftakbugceu.jpg",
+    "image_id": "lfsdnlko80ftakbugceu",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/lfsdnlko80ftakbugceu.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Odyssey",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 94,
+    "name": "Commodore Plus/4",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8m.jpg",
+    "image_id": "pl8m",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8m.jpg"
+  },
+  {
+    "id": 123,
+    "name": "WonderSwan Color",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl79.jpg",
+    "image_id": "pl79",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl79.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Acorn Electron",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8d.jpg",
+    "image_id": "pl8d",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8d.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Texas Instruments TI-99",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf0.jpg",
+    "image_id": "plf0",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf0.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Odyssey 2 / Videopac G7000",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/fqwnmmpanb5se6ebccm3.jpg",
+    "image_id": "fqwnmmpanb5se6ebccm3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/fqwnmmpanb5se6ebccm3.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Hyper Neo Geo 64",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ubf1qgytr069wm0ikh0z.jpg",
+    "image_id": "ubf1qgytr069wm0ikh0z",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/ubf1qgytr069wm0ikh0z.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Neo Geo CD",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7t.jpg",
+    "image_id": "pl7t",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7t.jpg"
+  },
+  {
+    "id": 142,
+    "name": "PC-50X Family",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/dpwrkxrjkuxwqroqwjsw.jpg",
+    "image_id": "dpwrkxrjkuxwqroqwjsw",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/dpwrkxrjkuxwqroqwjsw.jpg"
+  },
+  {
+    "id": 144,
+    "name": "AY-3-8710",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 146,
+    "name": "AY-3-8605",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 147,
+    "name": "AY-3-8606",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 149,
+    "name": "PC-9800 Series",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla6.jpg",
+    "image_id": "pla6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pla6.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Turbografx-16/PC Engine CD",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl83.jpg",
+    "image_id": "pl83",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl83.jpg"
+  },
+  {
+    "id": 505,
+    "name": "Elektor TV Games Computer",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 156,
+    "name": "Thomson MO5",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plex.jpg",
+    "image_id": "plex",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plex.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Commodore CDTV",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl84.jpg",
+    "image_id": "pl84",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl84.jpg"
+  },
+  {
+    "id": 163,
+    "name": "SteamVR",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ipbdzzx7z3rwuzm9big4.jpg",
+    "image_id": "ipbdzzx7z3rwuzm9big4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/ipbdzzx7z3rwuzm9big4.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Sol-20",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 13,
+    "name": "DOS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/sqgw6vespav1buezgjjn.jpg",
+    "image_id": "sqgw6vespav1buezgjjn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/sqgw6vespav1buezgjjn.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Game Boy Advance",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl74.jpg",
+    "image_id": "pl74",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl74.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Sega 32X",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7r.jpg",
+    "image_id": "pl7r",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7r.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Donner Model 30",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 119,
+    "name": "Neo Geo Pocket",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plau.jpg",
+    "image_id": "plau",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plau.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Wii U",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6n.jpg",
+    "image_id": "pl6n",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6n.jpg"
+  },
+  {
+    "id": 53,
+    "name": "MSX2",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8k.jpg",
+    "image_id": "pl8k",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8k.jpg"
+  },
+  {
+    "id": 140,
+    "name": "AY-3-8500",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/x42zeitpbuo2ltn7ybb2.jpg",
+    "image_id": "x42zeitpbuo2ltn7ybb2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/x42zeitpbuo2ltn7ybb2.jpg"
+  },
+  {
+    "id": 143,
+    "name": "AY-3-8760",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 60,
+    "name": "Atari 7800",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8f.jpg",
+    "image_id": "pl8f",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8f.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Vectrex",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8h.jpg",
+    "image_id": "pl8h",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8h.jpg"
+  },
+  {
+    "id": 145,
+    "name": "AY-3-8603",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 77,
+    "name": "Sharp X1",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl89.jpg",
+    "image_id": "pl89",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl89.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Sega CD",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7w.jpg",
+    "image_id": "pl7w",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7w.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Virtual Boy",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7s.jpg",
+    "image_id": "pl7s",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7s.jpg"
+  },
+  {
+    "id": 97,
+    "name": "PDP-8",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 98,
+    "name": "DEC GT40",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 101,
+    "name": "Ferranti Nimrod Computer",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plaq.jpg",
+    "image_id": "plaq",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plaq.jpg"
+  },
+  {
+    "id": 108,
+    "name": "PDP-11",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 109,
+    "name": "CDC Cyber 70",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plae.jpg",
+    "image_id": "plae",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plae.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Microcomputer",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 113,
+    "name": "OnLive Game System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plan.jpg",
+    "image_id": "plan",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plan.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Apple IIGS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl87.jpg",
+    "image_id": "pl87",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl87.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Neo Geo Pocket Color",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7h.jpg",
+    "image_id": "pl7h",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7h.jpg"
+  },
+  {
+    "id": 124,
+    "name": "SwanCrystal",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8v.jpg",
+    "image_id": "pl8v",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8v.jpg"
+  },
+  {
+    "id": 125,
+    "name": "PC-8800 Series",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf2.jpg",
+    "image_id": "plf2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf2.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Fairchild Channel F",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8s.jpg",
+    "image_id": "pl8s",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8s.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Amazon Fire TV",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl91.jpg",
+    "image_id": "pl91",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl91.jpg"
+  },
+  {
+    "id": 138,
+    "name": "VC 4000",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/phikgyfmv1fevj2jhzr5.jpg",
+    "image_id": "phikgyfmv1fevj2jhzr5",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/phikgyfmv1fevj2jhzr5.jpg"
+  },
+  {
+    "id": 139,
+    "name": "1292 Advanced Programmable Video System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/yfdqsudagw0av25dawjr.jpg",
+    "image_id": "yfdqsudagw0av25dawjr",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/yfdqsudagw0av25dawjr.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Dragon 32/64",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8e.jpg",
+    "image_id": "pl8e",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8e.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Amstrad PCW",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf7.jpg",
+    "image_id": "plf7",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf7.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Tatung Einstein",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla8.jpg",
+    "image_id": "pla8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pla8.jpg"
+  },
+  {
+    "id": 506,
+    "name": "Amstrad GX4000",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plot.jpg",
+    "image_id": "plot",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plot.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Satellaview",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgj.jpg",
+    "image_id": "plgj",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgj.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Game & Watch",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pler.jpg",
+    "image_id": "pler",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pler.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Playdia",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ples.jpg",
+    "image_id": "ples",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/ples.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Super NES CD-ROM System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plep.jpg",
+    "image_id": "plep",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plep.jpg"
+  },
+  {
+    "id": 9,
+    "name": "PlayStation 3",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/tuyy1nrqodtmbqajp4jg.jpg",
+    "image_id": "tuyy1nrqodtmbqajp4jg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/tuyy1nrqodtmbqajp4jg.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Atari Lynx",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl82.jpg",
+    "image_id": "pl82",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl82.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Xbox",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7e.jpg",
+    "image_id": "pl7e",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7e.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Commodore C64/128/MAX",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pll3.jpg",
+    "image_id": "pll3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pll3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Nintendo Entertainment System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmo.jpg",
+    "image_id": "plmo",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plmo.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Atari 5200",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8g.jpg",
+    "image_id": "pl8g",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8g.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Imlac PDS-1",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 22,
+    "name": "Game Boy Color",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7l.jpg",
+    "image_id": "pl7l",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7l.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Sega Saturn",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/hrmqljpwunky1all3v78.jpg",
+    "image_id": "hrmqljpwunky1all3v78",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/hrmqljpwunky1all3v78.jpg"
+  },
+  {
+    "id": 46,
+    "name": "PlayStation Vita",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6g.jpg",
+    "image_id": "pl6g",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6g.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Intellivision",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8o.jpg",
+    "image_id": "pl8o",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8o.jpg"
+  },
+  {
+    "id": 73,
+    "name": "BlackBerry OS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/bezbkk17hk0uobdkhjcv.jpg",
+    "image_id": "bezbkk17hk0uobdkhjcv",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/bezbkk17hk0uobdkhjcv.jpg"
+  },
+  {
+    "id": 86,
+    "name": "TurboGrafx-16/PC Engine",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl88.jpg",
+    "image_id": "pl88",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl88.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Amiga CD32",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7v.jpg",
+    "image_id": "pl7v",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7v.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Acorn Archimedes",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plas.jpg",
+    "image_id": "plas",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plas.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Philips CD-i",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl80.jpg",
+    "image_id": "pl80",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl80.jpg"
+  },
+  {
+    "id": 118,
+    "name": "FM Towns",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 121,
+    "name": "Sharp X68000",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8i.jpg",
+    "image_id": "pl8i",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8i.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Nuon",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7g.jpg",
+    "image_id": "pl7g",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7g.jpg"
+  },
+  {
+    "id": 141,
+    "name": "AY-3-8610",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 152,
+    "name": "FM-7",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pley.jpg",
+    "image_id": "pley",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pley.jpg"
+  },
+  {
+    "id": 157,
+    "name": "NEC PC-6000 Series",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plaa.jpg",
+    "image_id": "plaa",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plaa.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Oculus VR",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pivaofe9ll2b8cqfvvbu.jpg",
+    "image_id": "pivaofe9ll2b8cqfvvbu",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pivaofe9ll2b8cqfvvbu.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Nintendo DS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6t.jpg",
+    "image_id": "pl6t",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6t.jpg"
+  },
+  {
+    "id": 57,
+    "name": "WonderSwan",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7b.jpg",
+    "image_id": "pl7b",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7b.jpg"
+  },
+  {
+    "id": 69,
+    "name": "BBC Microcomputer System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl86.jpg",
+    "image_id": "pl86",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl86.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Commodore VIC-20",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8p.jpg",
+    "image_id": "pl8p",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8p.jpg"
+  },
+  {
+    "id": 339,
+    "name": "Sega Pico",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgo.jpg",
+    "image_id": "plgo",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgo.jpg"
+  },
+  {
+    "id": 379,
+    "name": "Game.com",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgk.jpg",
+    "image_id": "plgk",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgk.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Intellivision Amico",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkp.jpg",
+    "image_id": "plkp",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkp.jpg"
+  },
+  {
+    "id": 387,
+    "name": "Oculus Go",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkk.jpg",
+    "image_id": "plkk",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkk.jpg"
+  },
+  {
+    "id": 374,
+    "name": "Sharp MZ-2200",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 74,
+    "name": "Windows Phone",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla3.jpg",
+    "image_id": "pla3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pla3.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Neo Geo MVS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/cbhfilmhdgwdql8nzsy0.jpg",
+    "image_id": "cbhfilmhdgwdql8nzsy0",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cbhfilmhdgwdql8nzsy0.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Gear VR",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkj.jpg",
+    "image_id": "plkj",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkj.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Neo Geo AES",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/hamfdrgnhenxb2d9g8mh.jpg",
+    "image_id": "hamfdrgnhenxb2d9g8mh",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/hamfdrgnhenxb2d9g8mh.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Epoch Cassette Vision",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plko.jpg",
+    "image_id": "plko",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plko.jpg"
+  },
+  {
+    "id": 376,
+    "name": "Epoch Super Cassette Vision",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkn.jpg",
+    "image_id": "plkn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkn.jpg"
+  },
+  {
+    "id": 84,
+    "name": "SG-1000",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmn.jpg",
+    "image_id": "plmn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plmn.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Bally Astrocade",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 170,
+    "name": "Google Stadia",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl94.jpg",
+    "image_id": "pl94",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl94.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Plug & Play",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 384,
+    "name": "Oculus Quest",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plh7.jpg",
+    "image_id": "plh7",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plh7.jpg"
+  },
+  {
+    "id": 385,
+    "name": "Oculus Rift",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln8.jpg",
+    "image_id": "pln8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pln8.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Nintendo GameCube",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7a.jpg",
+    "image_id": "pl7a",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7a.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Game Boy",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7m.jpg",
+    "image_id": "pl7m",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7m.jpg"
+  },
+  {
+    "id": 42,
+    "name": "N-Gage",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl76.jpg",
+    "image_id": "pl76",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl76.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Commodore 16",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf4.jpg",
+    "image_id": "plf4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf4.jpg"
+  },
+  {
+    "id": 96,
+    "name": "PDP-10",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 161,
+    "name": "Windows Mixed Reality",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plm4.jpg",
+    "image_id": "plm4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plm4.jpg"
+  },
+  {
+    "id": 479,
+    "name": "Terebikko / See 'n Say Video Phone",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 167,
+    "name": "PlayStation 5",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plos.jpg",
+    "image_id": "plos",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plos.jpg"
+  },
+  {
+    "id": 50,
+    "name": "3DO Interactive Multiplayer",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7u.jpg",
+    "image_id": "pl7u",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7u.jpg"
+  },
+  {
+    "id": 137,
+    "name": "New Nintendo 3DS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6j.jpg",
+    "image_id": "pl6j",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6j.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Sega Master System/Mark III",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 274,
+    "name": "PC-FX",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf8.jpg",
+    "image_id": "plf8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf8.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Evercade",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plky.jpg",
+    "image_id": "plky",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plky.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Playdate",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgx.jpg",
+    "image_id": "plgx",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgx.jpg"
+  },
+  {
+    "id": 95,
+    "name": "PDP-1",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 110,
+    "name": "PLATO",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plaf.jpg",
+    "image_id": "plaf",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plaf.jpg"
+  },
+  {
+    "id": 372,
+    "name": "OOParts",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgi.jpg",
+    "image_id": "plgi",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgi.jpg"
+  },
+  {
+    "id": 378,
+    "name": "Gamate",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plhf.jpg",
+    "image_id": "plhf",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plhf.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Casio Loopy",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkm.jpg",
+    "image_id": "plkm",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkm.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Analogue electronics",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 478,
+    "name": "Panasonic M2",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 236,
+    "name": "Exidy Sorcerer",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 26,
+    "name": "ZX Spectrum",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plab.jpg",
+    "image_id": "plab",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plab.jpg"
+  },
+  {
+    "id": 102,
+    "name": "EDSAC",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plat.jpg",
+    "image_id": "plat",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plat.jpg"
+  },
+  {
+    "id": 103,
+    "name": "PDP-7",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 27,
+    "name": "MSX",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8j.jpg",
+    "image_id": "pl8j",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8j.jpg"
+  },
+  {
+    "id": 104,
+    "name": "HP 2100",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 166,
+    "name": "Pokémon mini",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7f.jpg",
+    "image_id": "pl7f",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7f.jpg"
+  },
+  {
+    "id": 105,
+    "name": "HP 3000",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla9.jpg",
+    "image_id": "pla9",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pla9.jpg"
+  },
+  {
+    "id": 106,
+    "name": "SDS Sigma 7",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 37,
+    "name": "Nintendo 3DS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln6.jpg",
+    "image_id": "pln6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pln6.jpg"
+  },
+  {
+    "id": 38,
+    "name": "PlayStation Portable",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl5y.jpg",
+    "image_id": "pl5y",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl5y.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Call-A-Computer time-shared mainframe computer system",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 151,
+    "name": "TRS-80 Color Computer",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf1.jpg",
+    "image_id": "plf1",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf1.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Daydream",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/lwbdsvaveyxmuwnsga7g.jpg",
+    "image_id": "lwbdsvaveyxmuwnsga7g",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/lwbdsvaveyxmuwnsga7g.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Xbox Series X|S",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg",
+    "image_id": "plfl",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plfl.jpg"
+  },
+  {
+    "id": 203,
+    "name": "DUPLICATE Stadia",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 238,
+    "name": "DVD Player",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plbu.jpg",
+    "image_id": "plbu",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plbu.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Blu-ray Player",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plbv.jpg",
+    "image_id": "plbv",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plbv.jpg"
+  },
+  {
+    "id": 240,
+    "name": "Zeebo",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plbx.jpg",
+    "image_id": "plbx",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plbx.jpg"
+  },
+  {
+    "id": 386,
+    "name": "Meta Quest 2",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pll0.jpg",
+    "image_id": "pll0",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pll0.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Family Computer",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnf.jpg",
+    "image_id": "plnf",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnf.jpg"
+  },
+  {
+    "id": 165,
+    "name": "PlayStation VR",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnc.jpg",
+    "image_id": "plnc",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnc.jpg"
+  },
+  {
+    "id": 405,
+    "name": "Windows Mobile",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkl.jpg",
+    "image_id": "plkl",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkl.jpg"
+  },
+  {
+    "id": 389,
+    "name": "AirConsole",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkq.jpg",
+    "image_id": "plkq",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkq.jpg"
+  },
+  {
+    "id": 390,
+    "name": "PlayStation VR2",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo5.jpg",
+    "image_id": "plo5",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plo5.jpg"
+  },
+  {
+    "id": 406,
+    "name": "Sinclair QL",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plih.jpg",
+    "image_id": "plih",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plih.jpg"
+  },
+  {
+    "id": 407,
+    "name": "HyperScan",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj2.jpg",
+    "image_id": "plj2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj2.jpg"
+  },
+  {
+    "id": 408,
+    "name": "Mega Duck/Cougar Boy",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj3.jpg",
+    "image_id": "plj3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj3.jpg"
+  },
+  {
+    "id": 410,
+    "name": "Atari Jaguar CD",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj4.jpg",
+    "image_id": "plj4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj4.jpg"
+  },
+  {
+    "id": 411,
+    "name": "Handheld Electronic LCD",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 409,
+    "name": "Legacy Computer",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 412,
+    "name": "Leapster",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj5.jpg",
+    "image_id": "plj5",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj5.jpg"
+  },
+  {
+    "id": 414,
+    "name": "LeapTV",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj6.jpg",
+    "image_id": "plj6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj6.jpg"
+  },
+  {
+    "id": 413,
+    "name": "Leapster Explorer/LeadPad Explorer",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plna.jpg",
+    "image_id": "plna",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plna.jpg"
+  },
+  {
+    "id": 438,
+    "name": "Arduboy",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plk6.jpg",
+    "image_id": "plk6",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plk6.jpg"
+  },
+  {
+    "id": 415,
+    "name": "Watara/QuickShot Supervision",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj7.jpg",
+    "image_id": "plj7",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj7.jpg"
+  },
+  {
+    "id": 439,
+    "name": "V.Smile",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plk7.jpg",
+    "image_id": "plk7",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plk7.jpg"
+  },
+  {
+    "id": 441,
+    "name": "PocketStation",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plkc.jpg",
+    "image_id": "plkc",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plkc.jpg"
+  },
+  {
+    "id": 417,
+    "name": "Palm OS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj9.jpg",
+    "image_id": "plj9",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj9.jpg"
+  },
+  {
+    "id": 7,
+    "name": "PlayStation",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl7q.jpg",
+    "image_id": "pl7q",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl7q.jpg"
+  },
+  {
+    "id": 416,
+    "name": "64DD",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plj8.jpg",
+    "image_id": "plj8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plj8.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Amiga",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 471,
+    "name": "Meta Quest 3",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnb.jpg",
+    "image_id": "plnb",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnb.jpg"
+  },
+  {
+    "id": 480,
+    "name": "Super A'Can",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plns.jpg",
+    "image_id": "plns",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plns.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Virtual Console",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plao.jpg",
+    "image_id": "plao",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plao.jpg"
+  },
+  {
+    "id": 440,
+    "name": "Visual Memory Unit / Visual Memory System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plk8.jpg",
+    "image_id": "plk8",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plk8.jpg"
+  },
+  {
+    "id": 472,
+    "name": "visionOS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnj.jpg",
+    "image_id": "plnj",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnj.jpg"
+  },
+  {
+    "id": 473,
+    "name": "Arcadia 2001",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnk.jpg",
+    "image_id": "plnk",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnk.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Family Computer Disk System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8b.jpg",
+    "image_id": "pl8b",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8b.jpg"
+  },
+  {
+    "id": 474,
+    "name": "Gizmondo",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnl.jpg",
+    "image_id": "plnl",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnl.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Amstrad CPC",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnh.jpg",
+    "image_id": "plnh",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnh.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Arcade",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmz.jpg",
+    "image_id": "plmz",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plmz.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Sega Mega Drive/Genesis",
+    "iconUrl": "",
+    "image_id": ""
+  },
+  {
+    "id": 59,
+    "name": "Atari 2600",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln4.jpg",
+    "image_id": "pln4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pln4.jpg"
+  },
+  {
+    "id": 68,
+    "name": "ColecoVision",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8n.jpg",
+    "image_id": "pl8n",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8n.jpg"
+  },
+  {
+    "id": 475,
+    "name": "R-Zone",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnm.jpg",
+    "image_id": "plnm",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnm.jpg"
+  },
+  {
+    "id": 476,
+    "name": "Apple Pippin",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnn.jpg",
+    "image_id": "plnn",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnn.jpg"
+  },
+  {
+    "id": 481,
+    "name": "Tomy Tutor / Pyuta / Grandstand Tutor",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnt.jpg",
+    "image_id": "plnt",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnt.jpg"
+  },
+  {
+    "id": 486,
+    "name": "Digiblast",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo2.jpg",
+    "image_id": "plo2",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plo2.jpg"
+  },
+  {
+    "id": 48,
+    "name": "PlayStation 4",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6f.jpg",
+    "image_id": "pl6f",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6f.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Xbox 360",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plha.jpg",
+    "image_id": "plha",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plha.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Android",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pln3.jpg",
+    "image_id": "pln3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pln3.jpg"
+  },
+  {
+    "id": 482,
+    "name": "Sega CD 32X",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnu.jpg",
+    "image_id": "plnu",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnu.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Xbox One",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl95.jpg",
+    "image_id": "pl95",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl95.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Linux",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plak.jpg",
+    "image_id": "plak",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plak.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nintendo 64",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl78.jpg",
+    "image_id": "pl78",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl78.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Legacy Mobile Device",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plnd.jpg",
+    "image_id": "plnd",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plnd.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wii",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl92.jpg",
+    "image_id": "pl92",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl92.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Super Nintendo Entertainment System",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/ifw2tvdkynyxayquiyk4.jpg",
+    "image_id": "ifw2tvdkynyxayquiyk4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/ifw2tvdkynyxayquiyk4.jpg"
+  },
+  {
+    "id": 39,
+    "name": "iOS",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6w.jpg",
+    "image_id": "pl6w",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6w.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Super Famicom",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/a9x7xjy4p9sqynrvomcf.jpg",
+    "image_id": "a9x7xjy4p9sqynrvomcf",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/a9x7xjy4p9sqynrvomcf.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Atari ST/STE",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pla7.jpg",
+    "image_id": "pla7",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pla7.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Apple II",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl8r.jpg",
+    "image_id": "pl8r",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl8r.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Web browser",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plmx.jpg",
+    "image_id": "plmx",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plmx.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Commodore PET",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plf3.jpg",
+    "image_id": "plf3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plf3.jpg"
+  },
+  {
+    "id": 126,
+    "name": "TRS-80",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plac.jpg",
+    "image_id": "plac",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plac.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Nintendo DSi",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6u.jpg",
+    "image_id": "pl6u",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6u.jpg"
+  },
+  {
+    "id": 487,
+    "name": "LaserActive",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo4.jpg",
+    "image_id": "plo4",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plo4.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mac",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg",
+    "image_id": "plo3",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plo3.jpg"
+  },
+  {
+    "id": 373,
+    "name": "Sinclair ZX81",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgr.jpg",
+    "image_id": "plgr",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgr.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Ouya",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/pl6k.jpg",
+    "image_id": "pl6k",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/pl6k.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Nintendo Switch",
+    "iconUrl": "https://images.igdb.com/igdb/image/upload/t_thumb/plgu.jpg",
+    "image_id": "plgu",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/plgu.jpg"
+  }
 ]

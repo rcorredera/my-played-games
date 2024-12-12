@@ -5,12 +5,12 @@
             <h2>{{ game.name }}</h2>
             <img :src="game.coverUrl" alt="Game Cover" class="game-cover" />
             <div class="platform-icons">
-                <img v-if="getGamePlatform(game.platformId)" :src="getGamePlatform(game.platformId).iconUrl"
+                <img v-if="getGamePlatform(game.platformId)" :src="getGamePlatform(game.platformId).coverUrl"
                     :alt="getGamePlatform(game.platformId).name" class="platform-icon" />
             </div>
             <p><strong>Summary:</strong> {{ game.summary }}</p>
             <p><strong>First Release Date:</strong> {{ formatDate(game.first_release_date) }}</p>
-            <p><strong>Rating:</strong> {{ game.rating }}</p>
+            <p><strong>Rating:</strong> {{ game.rating }}/100</p>
             <a :href="game.url" target="_blank">More Info</a>
         </div>
     </div>
@@ -38,8 +38,8 @@ export default defineComponent({
     },
     emits: ['close'],
     methods: {
-        formatDate(timestamp: string): string {
-            const date = new Date(timestamp);
+        formatDate(timestamp: number): string {
+            const date = new Date(timestamp * 1000);
             return date.toLocaleDateString();
         },
         closeModal() {

@@ -4,7 +4,7 @@ export interface Game {
   summary: string;
   coverUrl: string;
   platformId: number;
-  first_release_date: string;
+  first_release_date: number;
   rating: number;
   url: string;
 }
@@ -14,4 +14,5 @@ export interface Platform {
   name: string;
   image_id: string;
   iconUrl: string;
+  coverUrl:string;
 }
